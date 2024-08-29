@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashleypojol&label=Profile%20views&color=0e75b6&style=flat" alt="ashleypojol" /> </p>
 
-- 📚 I’m currently studying on as a 3rd Year College in Bachelor on Science on Information Technology. [Asia Pacific College](https://www.apc.edu.ph/)
+- 📚 I’m currently studying on as a 4th Year College in Bachelor on Science on Information Technology. [Asia Pacific College](https://www.apc.edu.ph/)
 
 - ✉ I'm reachable at this email **ashleyjoypojol@gmail.com**
 
